@@ -43,7 +43,6 @@ class App extends React.Component {
   }
 
   render() {
-    console.log(this.state);
     return (
       <div className="ui container" style={{ marginTop: "10px" }}>
         <h1>Reckon Programming Exercise</h1>
